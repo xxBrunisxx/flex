@@ -1,0 +1,19 @@
+    body{
+       background-color: #103579;
+       color: #f8f8f8;
+    }
+
+
+.flex-container {
+    display: flex;
+    background-color: rgb(8, 134, 156);
+    flex-direction: column;
+  }
+  
+  .flex-container > div {
+    background-color: #445abb;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
